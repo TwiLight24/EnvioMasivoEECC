@@ -1,0 +1,10 @@
+
+**** Log file opened at 2023-07-18 11:13:52.930278 UTC-05:00 (Hora est. Pacífico, Sudamérica), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 7, Compiled on Sep 19 2020 01:34:20
+ CPIC library: 753.2020.09.14 version 3, NI library: 40, Kernel Release: 753 Patch Level 711
+ Current working directory: C:\Users\practicanteti\Downloads\EstadoCuentaPruebaV4\EstadoCuenta_28-12-21\EnvioCuentas, Program: crw64
+ Hardware: PC with Windows NT 8x AMD64 Level 6 (Mod 140 Step 1), Operating_system: Windows NT 10.0
+ Hostname: LENOVO002, IP address: 192.168.1.25, IPv6 address: fe80::847a:b42b:6543:4fc0
+
+2023-07-18 11:13:52.931038 [17524] >> Info entry
+	Did not find config file C:\Users\practicanteti\Downloads\EstadoCuentaPruebaV4\EstadoCuenta_28-12-21\EnvioCuentas\sapnwrfc.ini.
